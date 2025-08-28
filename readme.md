@@ -2,6 +2,9 @@
 
 I'll create a comprehensive pharmacy management system with all essential features using Python and Tkinter for the GUI, with SQLite as the database backend.
 
+![alt login](python-pharmacy-login-single.png "login")
+![alt dashboard](python-pharmacy-dashboard-single.png "dashboard")
+
 ```python
 import sqlite3
 from tkinter import *
